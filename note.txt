@@ -12,6 +12,7 @@ https://github.com/spdx/LicenseListPublisher
 
 metadata regarding OSI Approved Licenses, and crosswalks that help with using and integrating this information with external sources.
 https://github.com/OpenSourceOrg/api/blob/master/doc/endpoints.md
+  i see candidate properties for https://schema.org/supersededBy, keywords (maybe gist:categorizedBy ?), https://schema.org/license, 
 trove scheme:
   https://pypi.org/classifiers/
   https://www.python.org/dev/peps/pep-0301/#distutils-trove-classification
