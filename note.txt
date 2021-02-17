@@ -1,0 +1,22 @@
+SOFTWARE LICENSES
+
+
+SPDX® is a designed to allow the exchange of data about software packages. 
+ontology
+https://spdx.org/rdf/terms/
+data
+https://github.com/spdx/license-list-XML
+rdf generator
+https://github.com/spdx/LicenseListPublisher
+
+
+metadata regarding OSI Approved Licenses, and crosswalks that help with using and integrating this information with external sources.
+https://github.com/OpenSourceOrg/api/blob/master/doc/endpoints.md
+trove scheme:
+  https://pypi.org/classifiers/
+  https://www.python.org/dev/peps/pep-0301/#distutils-trove-classification
+dep5 scheme:
+https://dep-team.pages.debian.net/deps/dep5/
+https://dep-team.pages.debian.net/deps/dep5/#license-short-name
+
+
