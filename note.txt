@@ -21,3 +21,5 @@ https://dep-team.pages.debian.net/deps/dep5/
 https://dep-team.pages.debian.net/deps/dep5/#license-short-name
 
 
+cc
+https://github.com/creativecommons/cc.licenserdf/tree/master/cc/licenserdf/licenses
